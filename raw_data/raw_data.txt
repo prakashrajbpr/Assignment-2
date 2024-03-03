@@ -1,0 +1,4 @@
+1. Total records and columns - 5847 rows x 14 columns.
+2. Total number of records is mentioned as - 6018.
+3. There are irregularities in the Unnamed column.
+4. In Milege column, it's in 2 different units(Kmpl and Km/kg) 

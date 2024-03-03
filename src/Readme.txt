@@ -1,0 +1,1 @@
+I have written codes for all the questions(a,b,c,d,e) in a single notebook file(Assignment_2).
